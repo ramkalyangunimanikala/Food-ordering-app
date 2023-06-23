@@ -19,7 +19,7 @@ This is a web-based food ordering application built using HTML, CSS, JavaScript,
 
  ## Setup Instructions
  1 Clone the repository:
- git clone https://github.com/your-username/food-ordering-app.git
+ git clone https://ramkalyangunimanikala.github.io/Food-ordering-app/
 
 
  <br>2.Create a MySQL database and import the provided SQL file database.sql to set up the necessary tables and data.
